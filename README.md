@@ -1,6 +1,7 @@
 # 1. 프로젝트명
 
-![image](https://github.com/erase-jeong/sw-team3/assets/98355440/91f8cf12-04b6-4921-adb4-dd734b639697)
+![image](https://github.com/erase-jeong/sw-team3/assets/98355440/e384b5ed-33e3-4324-b311-224a94ddf4ee)
+
 
 <br><br>
 
