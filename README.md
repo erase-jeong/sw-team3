@@ -38,6 +38,6 @@ test
     <td align="center">임지은</td>
     <td align="center">정지훈</td>
     <td align="center">이현호</td>
-    <td align="center">이재</td>
+    <td align="center">이재욱</td>
   </tr>
 </table>
