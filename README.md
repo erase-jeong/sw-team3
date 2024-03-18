@@ -1,8 +1,14 @@
-# 프로젝트 명
+# 1. 프로젝트명
 
 ![image](https://github.com/erase-jeong/sw-team3/assets/98355440/91f8cf12-04b6-4921-adb4-dd734b639697)
 
-# 🧩해당 프로젝트 참가자
+<br><br>
+
+# 2. 프로젝트 구조도
+![image](https://github.com/erase-jeong/sw-team3/assets/98355440/86f56a37-f1c4-440d-8f3f-36be0a9d5bba)
+
+<br><br>
+# 3. 🧩해당 프로젝트 참가자
 
 - 팀장
 <table>
